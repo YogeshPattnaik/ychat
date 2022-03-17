@@ -1,0 +1,26 @@
+.messageBox {
+  padding: 1vmax;
+  margin: 0.5vmax;
+  border-radius: 0.5vmax;
+  clear: both;
+  display: inline-block;
+  font-family: cursive;
+}
+
+.messageBox > b {
+  color: #53c0f3;
+}
+
+.right {
+  float: right;
+  text-align: right;
+  background-color: #40b7ad;
+  color: white;
+}
+
+.left {
+  float: left;
+  text-align: left;
+  background-color: crimson;
+  color: white;
+}
